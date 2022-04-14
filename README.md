@@ -1,7 +1,5 @@
 # 6502 TFT Screen and Controller
 
-# Martin Mienczakowski
-
 This repository contains guides and example software to allow use of a TFT Screen and controller with a Ben Eater style 6502 computer with minor modifications.
 
 The overall technical manual detailing BIOS functions and how to write to any of the screens is here: link.
@@ -35,3 +33,7 @@ Quick start:
 Catch Clemo V4:
 
 BIOS V3:
+
+# Author
+
+The author of this repositary is Martin Mienczakowski
