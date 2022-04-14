@@ -22,7 +22,7 @@ Catch Clemo V2:
 
 Quick start:
 
-Catch Clemo V3:
+Catch Clemo V4:
 
 BIOS V2:
 
@@ -30,7 +30,7 @@ BIOS V2:
 
 Quick start:
 
-Catch Clemo V4:
+Catch Clemo V5:
 
 BIOS V3:
 
