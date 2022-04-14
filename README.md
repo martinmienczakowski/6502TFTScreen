@@ -36,4 +36,4 @@ BIOS V3:
 
 # Author
 
-The author of this repositary is Martin Mienczakowski
+The author of this repository is Martin Mienczakowski
