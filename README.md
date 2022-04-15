@@ -2,7 +2,7 @@
 
 This repository contains guides and example software to allow use of a TFT Screen and controller with a Ben Eater style 6502 computer with minor modifications.
 
-The overall technical manual detailing BIOS functions and how to write to any of the screens is here: [link](https://github.com/martinmienczakowski/6502TFTScreen/blob/d2e7c9dbbdbd956a3d5c02a5402369ba50d9747f/Edgar%20Technical%20Manual%20Version%203.pdf)
+The overall technical manual detailing BIOS functions and how to write to any of the screens is here: [link](https://github.com/martinmienczakowski/6502TFTScreen/blob/8b1f8be9139361221d6cfd34c1965b25d1d2a9d3/Edgar%20Technical%20Manual%20Version%203.pdf)
 
 Please select from below what setup you are intending to build.
 
