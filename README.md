@@ -2,7 +2,7 @@
 
 This repository contains guides and example software to allow use of a TFT Screen and controller with a Ben Eater style 6502 computer with minor modifications.
 
-The overall technical manual detailing BIOS functions and how to write to any of the screens is here: link.
+The overall technical manual detailing BIOS functions and how to write to any of the screens is here: [link]
 
 Please select from below what setup you are intending to build.
 
