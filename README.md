@@ -22,7 +22,7 @@ Catch Clemo V2: [link](https://github.com/martinmienczakowski/6502TFTScreen/blob
 
 Quick start: [link](https://github.com/martinmienczakowski/6502TFTScreen/blob/88f1e6ec3df9402c8e1c564de074cd102f933266/480x320%20Logic%20Controller/480%20x%20320%20Screen%20with%204%20Button%20Controller%20(Logic).pdf)
 
-Catch Clemo V4:
+Catch Clemo V4: [link](https://github.com/martinmienczakowski/6502TFTScreen/blob/80c5814163fe7269ae269b7234637595e97a9d33/480x320%20Logic%20Controller/CatchClemoV4.s)
 
 BIOS V2:
 
