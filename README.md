@@ -6,6 +6,8 @@ The overall technical manual detailing BIOS functions and how to write to any of
 
 Please select from below what setup you are intending to build.
 
+If this is useful to you, please do feel free to [buy me a coffee](https://www.buymeacoffee.com/martinmienM)
+
 # 320 x 280 screen with 4 button controller (no logic included on controller)
 
 Quick start: [link](https://github.com/martinmienczakowski/6502TFTScreen/blob/d2e7c9dbbdbd956a3d5c02a5402369ba50d9747f/320x280%20Simple%20Controller/320%20x%20280%20Screen%20with%204%20Button%20Controller%20(Simple).pdf)
