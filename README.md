@@ -32,7 +32,7 @@ Quick start: [link](https://github.com/martinmienczakowski/6502TFTScreen/blob/95
 
 Catch Clemo V5: [link](https://github.com/martinmienczakowski/6502TFTScreen/blob/def38f060b927f4fe5a6fe883cac61b69dc27582/480x320%208%20Button%20Controller/CatchClemoV5.s)
 
-BIOS V3:
+BIOS V3: [link](https://github.com/martinmienczakowski/6502TFTScreen/blob/0e57bc6d6682c852994b09e06683f62d5e0d1948/480x320%208%20Button%20Controller/BIOSV3.s)
 
 # Author
 
