@@ -6,7 +6,7 @@ Catch Clemo V5: [link](https://github.com/martinmienczakowski/6502TFTScreen/blob
 
 BIOS V3: [link](https://github.com/martinmienczakowski/6502TFTScreen/blob/0e57bc6d6682c852994b09e06683f62d5e0d1948/480x320%208%20Button%20Controller/BIOSV3.s)
 
-The overall technical manual detailing BIOS functions and how to write to any of the screens is here: [link](https://github.com/martinmienczakowski/6502TFTScreen/blob/d2e7c9dbbdbd956a3d5c02a5402369ba50d9747f/Edgar%20Technical%20Manual%20Version%203.pdf)
+The overall technical manual detailing BIOS functions and how to write to any of the screens is here: [link](https://github.com/martinmienczakowski/6502TFTScreen/blob/8b1f8be9139361221d6cfd34c1965b25d1d2a9d3/Edgar%20Technical%20Manual%20Version%203.pdf)
 
 
 # Author
