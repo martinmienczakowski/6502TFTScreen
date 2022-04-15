@@ -1,4 +1,4 @@
-# 320 x 280 screen with 4 button controller (logic using OR gates for interupts)
+# 320 x 240 screen with 4 button controller (logic using OR gates for interupts)
 
 Quick start: [link](https://github.com/martinmienczakowski/6502TFTScreen/blob/0badf81f2957e22b510c32e3e0d6cfe9e12eff58/320x280%20Logic%20Controller/320%20x%20280%20Screen%20with%204%20Button%20Controller%20(Logic).pdf)
 
