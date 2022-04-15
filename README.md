@@ -24,7 +24,7 @@ Quick start: [link](https://github.com/martinmienczakowski/6502TFTScreen/blob/88
 
 Catch Clemo V4: [link](https://github.com/martinmienczakowski/6502TFTScreen/blob/80c5814163fe7269ae269b7234637595e97a9d33/480x320%20Logic%20Controller/CatchClemoV4.s)
 
-BIOS V2:
+BIOS V2: [link](https://github.com/martinmienczakowski/6502TFTScreen/blob/7e288fd62a312b1c175e7e25f2dc6f874b238b3a/480x320%20Logic%20Controller/BIOSV2.s)
 
 # 480 x 320 screen with 8 button controller (logic using OR gates for interupts, shift register to read 8 buttons)
 
