@@ -20,7 +20,7 @@ Catch Clemo V2: [link](https://github.com/martinmienczakowski/6502TFTScreen/blob
 
 # 480 x 320 screen with 4 button controller (logic using OR gates for interupts)
 
-Quick start:
+Quick start: [link](https://github.com/martinmienczakowski/6502TFTScreen/blob/88f1e6ec3df9402c8e1c564de074cd102f933266/480x320%20Logic%20Controller/480%20x%20320%20Screen%20with%204%20Button%20Controller%20(Logic).pdf)
 
 Catch Clemo V4:
 
